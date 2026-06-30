@@ -19,6 +19,17 @@ To put it brief, I have a 2 core CPU laptop with no GPU and I want AGI. Sounds c
 
 **Summary so far:** To my surprise, a 1B model did indeed analyze a project because it remembered how to do it from previous failed times. It's shocking to see it actually is progressing. I know I'm going for impossible, but human existence is almost impossible in our galaxy and yet here we are...
 
+## What I'm working with
+
+- 2 core CPU laptop, no GPU
+- No fast internet
+- No money for better hardware
+- Free random AI models
+
+And yet, a 1B model analyzed an entire project from memory. On a 2 core CPU. With no GPU. That's not supposed to work. It did anyway.
+
+I'm building Prai with what I have, not what I wish I had. If you want to help me get further, faster — every dollar goes to hardware that makes this real.
+
 ## Donate
 
 Even a dollar helps. If you want to support this project, you can send Monero (XMR):
