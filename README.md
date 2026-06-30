@@ -9,13 +9,15 @@ To put it brief, I have a 2 core CPU laptop with no GPU and I want AGI. Sounds c
 1. Run a model on a laptop [✅]
 2. Make a basic CLI app for running the model [✅]
 3. Add RAG and memory to the CLI app [✅]
-4. Make the CLI app self-evolving and growing [❌]
-5. Phase 0 of adding AGI concepts [❌]
-6. Phase 1 of adding AGI concepts [❌]
-7. Phase 2 of adding AGI concepts [❌]
-8. Phase 3 of adding AGI concepts [❌]
-9. Phase 4 of adding AGI concepts [❌]
-10. Phase 5 of adding AGI concepts [❌]
+5. Make the CLI app self-evolving and growing [❌]
+6. Organize and make the code readable for public [❌]
+7. Public release [❌]
+8. Phase 0 of adding AGI concepts [❌]
+9. Phase 1 of adding AGI concepts [❌]
+10. Phase 2 of adding AGI concepts [❌]
+11. Phase 3 of adding AGI concepts [❌]
+12. Phase 4 of adding AGI concepts [❌]
+13. Phase 5 of adding AGI concepts [❌]
 
 **Summary so far:** To my surprise, a 1B model did indeed analyze a project because it remembered how to do it from previous failed times. It's shocking to see it actually is progressing. I know I'm going for impossible, but human existence is almost impossible in our galaxy and yet here we are...
 
