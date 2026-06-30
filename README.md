@@ -28,7 +28,7 @@ To put it brief, I have a 2 core CPU laptop with no GPU and I want AGI. Sounds c
 - No money for better hardware
 - Free random AI models
 
-And yet, a 1B model analyzed an entire project from memory. On a 2 core CPU. With no GPU. That's not supposed to work. It did anyway.
+And yet, a 1B model(MiniCPM5-1B) analyzed an entire project from memory. On a 2 core CPU. With no GPU. That's not supposed to work. It did anyway.
 
 I'm building Prai with what I have, not what I wish I had. If you want to help me get further, faster — every dollar goes to hardware that makes this real.
 
