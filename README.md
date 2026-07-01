@@ -9,7 +9,7 @@ To put it brief, I have a 2 core CPU laptop with no GPU and I want AGI. Sounds c
 1. Run a model on a laptop [✅]
 2. Make a basic CLI app for running the model [✅]
 3. Add RAG and memory to the CLI app [✅]
-5. Make the CLI app self-evolving and growing [❌]
+5. Make the CLI app self-evolving and growing [✅]
 6. Organize and make the code readable for public [❌]
 7. Public release [❌]
 8. Phase 0 of adding AGI concepts [✅]
