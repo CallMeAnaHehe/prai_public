@@ -39,3 +39,8 @@ Even a dollar helps. If you want to support this project, you can send Monero (X
 ```
 8BkpP3p9vPkf1yAF5MyeJgFoJc2f75qDjgxD6x7JPZWe8vhJ7wFG4xcPVR62RL1KczNWy3BkUGt4jWkPnhNuxxGCAYYu13b
 ```
+
+Zcash (ZEC)
+```
+u1dl82jj4768qmq3tqe03pmy7vcw9v8akzh584g5azmzcjzmtgqltye0map6zm9vphqch9rwehvscfzqpc884gds5r4rmyjeap9cp5g5sf
+```
