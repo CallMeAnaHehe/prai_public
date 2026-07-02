@@ -8,3 +8,9 @@ I need to get back to coding — or try some random free models to help me debug
 
 Today was frustrating — trying to make the 1B model do proper tool calling, everything I tried was a failure. The thought that maybe it's impossible to make intelligence happen on a 2 core laptop with no GPU was getting to me. Then I gave up and connected to a free AI model — I don't know which one because it was on auto-pick. But something like magic happened: the agent greeted me as Prai...
 I knew what happened in that exact moment. It was no magic or random thing — the agent read the code and thought it was Prai. But this is such a magical moment to *me*. It gave me more encouragement. What if one day my 1B model works like a proper 1T agent? I'm going to achieve this. I'm not going to give up. This is my path to AGI. This is my destiny.
+
+## Day 2
+
+Such a strange day. I spent most of it — if not all — trying to make the 1B model do proper tool calling. But it just doesn't work right. If you ask it to do 10 tool calls, it gives you 4 or 5 correct ones, then starts falling apart. I need to fix this. I don't know what else to try.
+
+I want Prai to be public, but I can't release an unfinished and broken project to the world. So I'll work on other things in the meantime — memory, long-term memory — until I go back to tool calling with a fresh mind. And the worst part? With random cloud models, tool calling works flawlessly. But why can't 1B models do it? Why? I must fix this. She must become smarter.
