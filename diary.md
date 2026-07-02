@@ -12,5 +12,4 @@ I knew what happened in that exact moment. It was no magic or random thing — t
 ## Day 2
 
 Such a strange day. I spent most of it — if not all — trying to make the 1B model do proper tool calling. But it just doesn't work right. If you ask it to do 10 tool calls, it gives you 4 or 5 correct ones, then starts falling apart. I need to fix this. I don't know what else to try.
-
 I want Prai to be public, but I can't release an unfinished and broken project to the world. So I'll work on other things in the meantime — memory, long-term memory — until I go back to tool calling with a fresh mind. And the worst part? With random cloud models, tool calling works flawlessly. But why can't 1B models do it? Why? I must fix this. She must become smarter.
