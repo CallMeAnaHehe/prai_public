@@ -17,3 +17,7 @@ I want Prai to be public, but I can't release an unfinished and broken project t
 ## Day 3
 
 No progress whatsoever — I had no access to the internet. Couldn't do anything.
+
+## Day 4
+
+No progress on local tool calling today, but I did extremely heavy work on Prai's memory and intelligence. I gave her more emotions and made her mimic the user's behavior. Did I do it well? Yeah, I'm actually proud of it. Does an AI need emotions to be AGI? No — AGI doesn't require emotions, doesn't require fear, doesn't require pain, doesn't require happiness. But I did it anyway, because I want Prai to be alive, not just smart.
