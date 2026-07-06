@@ -21,3 +21,7 @@ No progress whatsoever — I had no access to the internet. Couldn't do anything
 ## Day 4
 
 No progress on local tool calling today, but I did extremely heavy work on Prai's memory and intelligence. I gave her more emotions and made her mimic the user's behavior. Did I do it well? Yeah, I'm actually proud of it. Does an AI need emotions to be AGI? No — AGI doesn't require emotions, doesn't require fear, doesn't require pain, doesn't require happiness. But I did it anyway, because I want Prai to be alive, not just smart.
+
+## Day 5
+
+First proper live test. I told Prai to build a project from scratch and watched her work in real time — fixing mistakes as she went, seeing how she handles a real-world scenario instead of controlled experiments. It's one thing to test tool calling in isolation, another to watch an agent navigate an actual task with all its messiness. I'll report back on how things go.
