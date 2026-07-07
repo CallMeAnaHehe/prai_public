@@ -25,3 +25,7 @@ No progress on local tool calling today, but I did extremely heavy work on Prai'
 ## Day 5
 
 First proper live test. I told Prai to build a project from scratch and watched her work in real time — fixing mistakes as she went, seeing how she handles a real-world scenario instead of controlled experiments. It's one thing to test tool calling in isolation, another to watch an agent navigate an actual task with all its messiness. I'll report back on how things go... I Have No Mouth, and I Must Scream... Yeah, I think I'm going to say that... it feels like I'm saying this in void, the 1B models can't... it just can't do anything right... but I won't give up... I want to scream, I am mentally in agony, but I can't scream...
+
+## Day 6
+
+Okay okay... Ana is bad at coding... Ana is really bad at coding, there is a new model that got 2 week free release, and it's looking at my code, and God oh God, it's like saying "Damn! you live like this?" It is fixing many things, God bless Hy3, Ana will report back later.
