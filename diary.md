@@ -29,3 +29,4 @@ First proper live test. I told Prai to build a project from scratch and watched 
 ## Day 6
 
 Okay okay... Ana is bad at coding... Ana is really bad at coding, there is a new model that got 2 week free release, and it's looking at my code, and God oh God, it's like saying "Damn! you live like this?" It is fixing many things, God bless Hy3, Ana will report back later.
+It was great, Ana is happy!
