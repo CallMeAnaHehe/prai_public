@@ -11,13 +11,16 @@ To put it briefly — I have a 2-core CPU laptop with no GPU, and I want AGI. So
 3. Add RAG and memory to the CLI app [✅]
 4. Make the CLI app self-evolving and growing [✅]
 5. Basic AGI concepts [✅]
-6. Organize and make the code readable for public [✅]
+6. DNA [❌]
 7. Stress test to make a project 1 [❌]
 8. Stress test to make a project 2 [❌]
 9. Stress test to make a project 3 [❌]
 10. Stress test to make a project 4 [❌]
-11. Public release [❌]
-12. AGI concepts [❌]
+11. Mother's touch [❌]
+12. Mother's approval [❌]
+13. Organize and make the code readable for public [❌]
+14. Public release [❌]
+15. AGI concepts [❌]
 
 **Summary so far:** To my surprise, a 1B model did indeed analyze a project because it remembered how to do it from previous failed attempts. It's shocking to see it actually progressing. I know I'm going for the impossible, but human existence in our galaxy is almost impossible too — and yet here we are...
 
