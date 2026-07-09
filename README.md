@@ -12,7 +12,7 @@ To put it briefly — I have a 2-core CPU laptop with no GPU, and I want AGI. So
 4. Make the CLI app self-evolving and growing [✅]
 5. Basic AGI concepts [✅]
 6. DNA [✅]
-7. Emotions [❌]
+7. Emotions [✅]
 8. Stress test to make a project 1 [❌]
 9. Stress test to make a project 2 [❌]
 10. Stress test to make a project 3 [❌]
