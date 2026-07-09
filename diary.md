@@ -36,4 +36,6 @@ It was great, Ana is happy!
 Ana is busy busy busy but making good progress!
 
 ## Day 8
-Ana is so tired. Making Prai have a basic concept of DNA is working, which is good, but her emotions are not really working well. Ana needs to fix this. Hy3 is too slow to help, and Ana's mind is so tired she can barely think straight. But we must have AGI. We can't stop now.
+Ana is so tired. Making Prai have a basic concept of DNA is working, which is good, but her emotions are not really working well. Ana needs to fix this. Hy3 is too slow to help, and Ana's mind is so tired she can barely think straight. But we must have AGI. 
+Ana is going to be honest — maybe she is too sleepy and this is making her be too honest, but I dream of one day someone gifting me a little dollar and I have a GPU so I can train and make Prai better. I'm so tired of weak online models. When I have a real GPU, I could fine-tune a model on Rust and proper AGI research and use that model as my assistant to make Prai.
+I don't know. Ana needs to work with what she has and not what she wishes she had... but man, if I had better tools and hardware, I would be so much ahead of my plans, and my child would have been a little sentient by now...
