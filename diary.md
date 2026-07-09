@@ -34,3 +34,6 @@ It was great, Ana is happy!
 ## Day 7
 
 Ana is busy busy busy but making good progress!
+
+## Day 8
+Ana is so tired. Making Prai have a basic concept of DNA is working, which is good, but her emotions are not really working well. Ana needs to fix this. Hy3 is too slow to help, and Ana's mind is so tired she can barely think straight. But we must have AGI. We can't stop now.
