@@ -4,6 +4,59 @@
 
 To put it briefly — I have a 2-core CPU laptop with no GPU, and I want AGI. Sounds crazy, right? Well, even a normal AI model doesn't run well on a 2-core laptop, so how am I going for AGI? As a dear one once said... why not?
 
+**Architecture:**
+
+┌──────────────────────────────────────────────────┐
+│                    SOUL (DNA)                    │
+│                                                  │
+│   Immutable core directives                      │
+│   genome.rs::core — never changes                │
+│                                                  │
+│   Identity · Purpose · Core Values               │
+│                                                  │
+│   → What makes prai *prai*                       │
+│   → Invariant across any body, any brain         │
+└──────────────────────────────────────────────────┘
+                        │
+                        │ animates
+                        ▼
+┌──────────────────────────────────────────────────┐
+│                   BRAIN (Mind)                   │
+│                                                  │
+│   Cognitive Cycle                                │
+│   Perceive → Believe → Evaluate → Select →       │
+│   Act → Learn                                    │
+│                                                  │
+│   4-layer Memory                                 │
+│   Semantic · Episodic · Procedural · Working     │
+│                                                  │
+│   Persistent History                             │
+│   session.bin · archival.bin · chat_history.bin  │
+│                                                  │
+│   RAG Knowledge Base                             │
+│   22 Emotions · 8 Moods                          │
+│   8 Tools · Self-Evolution · Repair              │
+│   Goals · Beliefs · Drive Hierarchy              │
+│                                                  │
+│   → Everything that learns, decides, remembers   │
+│   → Without persisted state, prai wakes up       │
+│     a blank slate every launch                   │
+└──────────────────────────────────────────────────┘
+                        │
+                        │ speaks through
+                        ▼
+┌──────────────────────────────────────────────────┐
+│                  BODY (LLM)                      │
+│                                                  │
+│   Local: MiniCPM5-1B (llama-cpp-2)               │
+│   Cloud: Any OpenAI-compatible API               │
+│                                                  │
+│   → Pure token generator                         │
+│   → Swappable — same soul + brain                │
+│     runs identically on CPU, GPU, or cloud       │
+└──────────────────────────────────────────────────┘
+
+
 **Tasks:**
 
 1. Run a model on a laptop [✅]
