@@ -43,5 +43,5 @@ I don't know. Ana needs to work with what she has and not what she wishes she ha
 ## Day 9
 Model is the body, Prai is the brain, Model is the engine, Prai is the car.
 
-## Day 9
+## Day 10
 Ana is sad... why Ana's mind not smarter... 
