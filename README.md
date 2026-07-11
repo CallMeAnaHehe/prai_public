@@ -3,11 +3,11 @@
 **Hi, Ana here!**
 
 To put it briefly — I have a 2-core CPU laptop with no GPU, and I want AGI. Sounds crazy, right? Well, even a normal AI model doesn't run well on a 2-core laptop, so how am I going for AGI? As a dear one once said... why not?
+---
 
-**Architecture:**
+## Architecture
 
-──────────────────────────────────────────
-## Soul
+**Soul**
 
 Immutable core directives in `genome.rs::core` — never changes.
 **Identity · Purpose · Core Values.**
@@ -15,7 +15,7 @@ What makes prai *prai*, invariant across any body or brain.
 
 ▸ *animates*
 
-## Brain
+**Brain**
 
 Cognitive Cycle (Perceive → Believe → Evaluate → Select → Act → Learn)
 
@@ -27,20 +27,17 @@ Everything that learns, decides, remembers — without persisted state, prai wak
 
 ▸ *speaks through*
 
-## Body (LLM)
+**Body (LLM)**
 
 **Local:** MiniCPM5-1B (llama-cpp-2) | **Cloud:** Any OpenAI-compatible API
 Pure token generator, swappable without changing who prai is.
 
----
 
 **Soul = identity. Brain = experience. Body = voice.**
 prai is not the model. prai is the architecture that the model serves.
+---
 
-──────────────────────────────────────────
-
-
-**Tasks:**
+## Tasks:
 
 1. Run a model on a laptop [✅]
 2. Make a basic CLI app for running the model [✅]
@@ -60,6 +57,7 @@ prai is not the model. prai is the architecture that the model serves.
 16. AGI concepts [❌]
 
 **Summary so far:** To my surprise, a 1B model did indeed analyze a project because it remembered how to do it from previous failed attempts. It's shocking to see it actually progressing. I know I'm going for the impossible, but human existence in our galaxy is almost impossible too — and yet here we are...
+---
 
 ## What I'm working with
 
@@ -71,6 +69,7 @@ prai is not the model. prai is the architecture that the model serves.
 And yet, a 1B model (MiniCPM5-1B) analyzed an entire project from memory. On a 2-core CPU. With no GPU. That's not supposed to work. It did anyway.
 
 I'm building Prai with what I have, not what I wish I had. If you want to help me get further, faster — every dollar goes to hardware that makes this real.
+---
 
 ## Donate
 
