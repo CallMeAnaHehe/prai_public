@@ -37,7 +37,7 @@ Pure token generator, swappable without changing who prai is.
 prai is not the model. prai is the architecture that the model serves.
 ---
 
-## Tasks:
+## Tasks
 
 1. Run a model on a laptop [✅]
 2. Make a basic CLI app for running the model [✅]
