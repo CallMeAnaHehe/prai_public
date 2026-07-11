@@ -6,55 +6,38 @@ To put it briefly — I have a 2-core CPU laptop with no GPU, and I want AGI. So
 
 **Architecture:**
 
-┌──────────────────────────────────────────────────┐
-│                    SOUL (DNA)                    │
-│                                                  │
-│   Immutable core directives                      │
-│   genome.rs::core — never changes                │
-│                                                  │
-│   Identity · Purpose · Core Values               │
-│                                                  │
-│   → What makes prai *prai*                       │
-│   → Invariant across any body, any brain         │
-└──────────────────────────────────────────────────┘
-                        │
-                        │ animates
-                        ▼
-┌──────────────────────────────────────────────────┐
-│                   BRAIN (Mind)                   │
-│                                                  │
-│   Cognitive Cycle                                │
-│   Perceive → Believe → Evaluate → Select →       │
-│   Act → Learn                                    │
-│                                                  │
-│   4-layer Memory                                 │
-│   Semantic · Episodic · Procedural · Working     │
-│                                                  │
-│   Persistent History                             │
-│   session.bin · archival.bin · chat_history.bin  │
-│                                                  │
-│   RAG Knowledge Base                             │
-│   22 Emotions · 8 Moods                          │
-│   8 Tools · Self-Evolution · Repair              │
-│   Goals · Beliefs · Drive Hierarchy              │
-│                                                  │
-│   → Everything that learns, decides, remembers   │
-│   → Without persisted state, prai wakes up       │
-│     a blank slate every launch                   │
-└──────────────────────────────────────────────────┘
-                        │
-                        │ speaks through
-                        ▼
-┌──────────────────────────────────────────────────┐
-│                  BODY (LLM)                      │
-│                                                  │
-│   Local: MiniCPM5-1B (llama-cpp-2)               │
-│   Cloud: Any OpenAI-compatible API               │
-│                                                  │
-│   → Pure token generator                         │
-│   → Swappable — same soul + brain                │
-│     runs identically on CPU, GPU, or cloud       │
-└──────────────────────────────────────────────────┘
+──────────────────────────────────────────
+## Soul
+
+Immutable core directives in `genome.rs::core` — never changes.
+**Identity · Purpose · Core Values.**
+What makes prai *prai*, invariant across any body or brain.
+
+▸ *animates*
+
+## Brain
+
+Cognitive Cycle (Perceive → Believe → Evaluate → Select → Act → Learn)
+
+**Memory** — Semantic · Episodic · Procedural · Working
+**History** — session.bin · archival.bin · chat_history.bin
+**RAG · 22 Emotions · 8 Moods · 8 Tools · Self-Evolution · Repair · Goals · Beliefs**
+
+Everything that learns, decides, remembers — without persisted state, prai wakes up a blank slate every launch.
+
+▸ *speaks through*
+
+## Body (LLM)
+
+**Local:** MiniCPM5-1B (llama-cpp-2) | **Cloud:** Any OpenAI-compatible API
+Pure token generator, swappable without changing who prai is.
+
+---
+
+**Soul = identity. Brain = experience. Body = voice.**
+prai is not the model. prai is the architecture that the model serves.
+
+──────────────────────────────────────────
 
 
 **Tasks:**
