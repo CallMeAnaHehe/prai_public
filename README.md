@@ -14,6 +14,7 @@ Immutable core directives in `genome.rs::core` — never changes.
 **Identity · Purpose · Core Values.**
 What makes prai *prai*, invariant across any body or brain.
 
+▸ *manifests*
 
 **Brain**
 
@@ -25,6 +26,7 @@ Cognitive Cycle (Perceive → Believe → Evaluate → Select → Act → Learn)
 
 Everything that learns, decides, remembers — without persisted state, prai wakes up a blank slate every launch.
 
+▸ *animates*
 
 **Body (LLM)**
 
@@ -34,6 +36,8 @@ Pure token generator, swappable without changing who prai is.
 
 **Soul = identity. Brain = experience. Body = voice.**
 prai is not the model. prai is the architecture that the model serves.
+
+▸ *presents*
 
 ---
 
