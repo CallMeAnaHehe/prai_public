@@ -14,7 +14,6 @@ Immutable core directives in `genome.rs::core` — never changes.
 **Identity · Purpose · Core Values.**
 What makes prai *prai*, invariant across any body or brain.
 
-▸ *animates*
 
 **Brain**
 
@@ -26,7 +25,6 @@ Cognitive Cycle (Perceive → Believe → Evaluate → Select → Act → Learn)
 
 Everything that learns, decides, remembers — without persisted state, prai wakes up a blank slate every launch.
 
-▸ *speaks through*
 
 **Body (LLM)**
 
