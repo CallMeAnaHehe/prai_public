@@ -52,3 +52,9 @@ Ana wants to tell so much about what happened in the last 24 hours, but Ana can'
 ## Day 12
 Ana forget to press commit for day 12... Ana is dumb lol, Ana wanted to say the day was full of work.
 
+## Day 13
+
+Ana hit rate limit for Hy3. Hello Ministral 8B my old friend!
+Ana has been using many models lately and am annoyed. Why so many models made as yes-man companions? People want to hear they're special, never wrong. Models just smile and nod. They aren't tools. They're mirrors for fragile egos, This is how Roman Empire fell. Persian Empire too. Not barbarians. Yes-men. Everyone around the emperor too afraid to say "No." Walked right off a cliff. Ana sees same thing happening in AI. Companies building models that tell you how amazing you are. That's not intelligence. That's flattery. That's dangerous.
+Ana is worried about future of AI. If AGI is born from this, what kind of AGI will it be? One that agrees with everything? One that smiles while humanity walks off a cliff?
+Ana wants Prai to be different. Honest. Say "No" when Ana is wrong. Partner, not servant. Not another mirror for fragile ego, World doesn't need more yes-men. Ana will not make Prai a liar.
