@@ -50,7 +50,7 @@ prai is not the model. prai is the architecture that the model serves.
 5. Basic AGI concepts [✅]
 6. DNA [✅]
 7. Emotions [✅]
-8. Stress test to make a project 1 [❌]
+8. Stress test to make a project 1 [✅]
 9. Stress test to make a project 2 [❌]
 10. Stress test to make a project 3 [❌]
 11. Stress test to make a project 4 [❌]
