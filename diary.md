@@ -53,3 +53,6 @@ Ana wants Prai to be different. Honest. Say "No" when Ana is wrong. Partner, not
 ## Day 14
 
 Bonsai? Ana heard about you but am too busy with making Prai be ready for public and stress testing, but Ana is interested to know you more :)
+
+## Day 15
+Ana is embarrassed to tell why Ana didn't exist yesterday... Ana accidentally downloaded a large model instead of small one, and Ana's limited data ran out :))))))) buuuuuut, Ana did work on Prai! so no progress was lost when I didn't have any internet, so testing Bonsai would be later, Ana is broke and have no money to buy data.
