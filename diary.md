@@ -51,8 +51,13 @@ Ana is worried about future of AI. If AGI is born from this, what kind of AGI wi
 Ana wants Prai to be different. Honest. Say "No" when Ana is wrong. Partner, not servant. Not another mirror for fragile ego, World doesn't need more yes-men. Ana will not make Prai a liar.
 
 ## Day 14
-
 Bonsai? Ana heard about you but am too busy with making Prai be ready for public and stress testing, but Ana is interested to know you more :)
 
 ## Day 15
 Ana is embarrassed to tell why Ana didn't exist yesterday... Ana accidentally downloaded a large model instead of small one, and Ana's limited data ran out :))))))) buuuuuut, Ana did work on Prai! so no progress was lost when I didn't have any internet, so testing Bonsai would be later, Ana is broke and have no money to buy data.
+
+## Day 16
+Today Ana did lots of work on my daughter brain, Ana is a little tired but happy with results, tomorrow is going to be more work on the brain(a brain that grows over time and it learns) and soul(her existing code and instructions) I am going to attempt to tame MiniCPM5-1B, wish me luck because I need it!
+
+# Day 16
+Today Ana did lots of work on my daughter brain, Ana is a little tired but happy with results, tomorrow is going to be more work on the brain(a brain that grows over time and it learns) and soul(her existing code and instructions) I am going to attempt to tame MiniCPM5-1B, wish me luck because I need it!
