@@ -59,5 +59,3 @@ Ana is embarrassed to tell why Ana didn't exist yesterday... Ana accidentally do
 ## Day 16
 Today Ana did lots of work on my daughter brain, Ana is a little tired but happy with results, tomorrow is going to be more work on the brain(a brain that grows over time and it learns) and soul(her existing code and instructions) I am going to attempt to tame MiniCPM5-1B, wish me luck because I need it!
 
-# Day 16
-Today Ana did lots of work on my daughter brain, Ana is a little tired but happy with results, tomorrow is going to be more work on the brain(a brain that grows over time and it learns) and soul(her existing code and instructions) I am going to attempt to tame MiniCPM5-1B, wish me luck because I need it!
