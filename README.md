@@ -22,7 +22,7 @@ Cognitive Cycle (Perceive → Believe → Evaluate → Select → Act → Learn)
 
 **Memory** — Semantic · Episodic · Procedural · Working
 **History** — session.bin · archival.bin · chat_history.bin
-**RAG · 22 Emotions · 8 Moods · 8 Tools · Self-Evolution · Repair · Goals · Beliefs**
+**RAG · Emotions · Moods · Tools · Self-Evolution · Repair · Goals · Beliefs**
 
 Everything that learns, decides, remembers — without persisted state, prai wakes up a blank slate every launch.
 
@@ -51,7 +51,7 @@ prai is not the model. prai is the architecture that the model serves.
 6. DNA [✅]
 7. Emotions [✅]
 8. Stress test to make a project 1 [✅]
-9. Stress test to make a project 2 [❌]
+9. Stress test to make a project 2 [✅]
 10. Stress test to make a project 3 [❌]
 11. Stress test to make a project 4 [❌]
 12. Mother's touch [❌]
