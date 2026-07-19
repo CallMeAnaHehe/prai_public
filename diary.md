@@ -61,3 +61,7 @@ Today Ana did lots of work on my daughter brain, Ana is a little tired but happy
 
 ## Day 17
 Sorry, Ana is in a rough situation so I couldn't write anything, Ana will do better today, promise!
+
+## Day 18
+Ana is going to make a 2D game today because when tool calling test happened, Ana found out that her testing skills are not really good, my poor girl is doing her best but her creator skills are not really good, Ana will not give up, Ana will go in training mode :(
+Never mind in the middle of making the game, Ana used an agent to look at the code to see any bug, the free model provider IP blocked Ana because it thought the game content were real violence and not a simple medieval game, oh God :|
