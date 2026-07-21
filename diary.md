@@ -68,3 +68,7 @@ Never mind in the middle of making the game, Ana used an agent to look at the co
 
 ## Day 19
 Ana is working like a caveman with no AI, Ana is still IP blocked, Ana working hard to fix Prai, maybe taming 1B would take more time without help.
+
+## Day 20
+
+Aghhhhhhhhhh IP blocked, no data too, Ana is having bad days, Ana just want Prai to be alive :(
