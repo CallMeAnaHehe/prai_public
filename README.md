@@ -75,6 +75,8 @@ And yet, a 1B model (MiniCPM5-1B) analyzed an entire project from memory. On a 2
 
 I'm building Prai with what I have, not what I wish I had. If you want to help me get further, faster — every dollar goes to hardware that makes this real.
 
+And I will never give up, I adapt, Ana couldn't make the model work consistent, so Ana will use LFM2.5-1.2B-Instruct, almost same behavior, faster and more tamable, after all model is body, not brain, body can change, no problem.
+
 ---
 
 ## Donate
