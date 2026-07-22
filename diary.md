@@ -72,3 +72,6 @@ Ana is working like a caveman with no AI, Ana is still IP blocked, Ana working h
 ## Day 20
 
 Aghhhhhhhhhh IP blocked, no data too, Ana is having bad days, Ana just want Prai to be alive :(
+
+## Day 21
+Hey Ana here, with sadness I have to report that I need to abort working on taming MiniCPM5-1B, the model thinks and hallucinate a lot, I tested other small models, and LFM2.5-1.2B-Instruct gave the exact same benchmark report and behavior but 4.5x time faster, and that is just... Ana is lost for words... Ana did try, did do the best, but Ana can't tame a premade model, I wish I could fine tune it, but it's almost impossible with CPU, so hello Instruct model.
