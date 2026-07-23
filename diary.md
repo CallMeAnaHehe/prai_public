@@ -88,3 +88,6 @@ Ternary-Bonsai-1.7B vs lfm2.5-1.2b-instruct
 
 LFM2.5-1.2B-Instruct is the definitive winner here.
 )
+
+## Day 22
+Ana is going to be honest, that IP block ruined my whole flow of coding and work, I was getting used to that tool and models, sorry about that, by Ana's old plan Prai should have been public now, but I do my best to make it work, somehow.
