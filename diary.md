@@ -94,4 +94,12 @@ Ana is going to be honest, that IP block ruined my whole flow of coding and work
 
 ## Day 23
 Ana is going to cry! Ana is having access to a free GLM-5.2 for a free limited time! Ana's first real frontier model! Ana is going to woooooooooork yesssssssssssssssssss!!!!!!!!!!!
-OMG IT'S SO GOOOOOOD HOOOOOOW IT'S SO SMART!!!!
+OMG IT'S SO GOOOOOOD HOOOOOOW IT'S SO SMART!!!! Ana got rate limited :)))) but I did so much planing and reaserch whooooooohooooooooo!!!!!!!!!!!!! ( it was working like this lol
+
+3 t/s
+$0.00 spent
+it's working again ! 
+
+2 t/s
+$0.00 spent
+)
