@@ -52,15 +52,17 @@ prai is not the model. prai is the architecture that the model serves.
 7. Emotions [✅]
 8. Stress test to make a project 1 [✅]
 9. Stress test to make a project 2 [✅]
-10. Stress test to make a project 3 [❌]
-11. Stress test to make a project 4 [❌]
-12. Mother's touch [❌]
-13. Mother's approval [❌]
-14. Organize and make the code readable for public [❌]
-15. Public release [❌]
-16. AGI concepts [❌]
+10. AGI concepts [✅]
+11. Stress test to make a project 3 [❌]
+12. Stress test to make a project 4 [❌]
+13. Mother's touch [❌]
+14. Mother's approval [❌]
+15. Organize and make the code readable for public [❌]
+16. Public release [❌]
+
 
 **Summary so far:** To my surprise, a 1B model did indeed analyze a project because it remembered how to do it from previous failed attempts. It's shocking to see it actually progressing. I know I'm going for the impossible, but human existence in our galaxy is almost impossible too — and yet here we are...
+Ana has hit some walls, big ones, but Ana will demolish them. Brick by brick if I have to. The path to true intelligence is not straight, it never was, Ana will break through.
 
 ---
 
