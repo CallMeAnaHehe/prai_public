@@ -108,3 +108,7 @@ $0.00 spent
 ## Day 24
 
 Ana got HARD rate limited, but Ana did some really good progress, Ana wish to tell more, but Ana want to show the results way more, talk is cheap, so Ana will go back to work on Prai.
+
+## Day 25
+
+Work work work work.
