@@ -112,3 +112,7 @@ Ana got HARD rate limited, but Ana did some really good progress, Ana wish to te
 ## Day 25
 
 Work work work work.
+
+## Day 26
+
+Okay, Ana has FULLY made Prai now, the foundation, concept, wiring, tuning, all is there, but one critical final touch is missing... Prai needs Mother's touch and final work by her... Ana has no access to Mother yet.
