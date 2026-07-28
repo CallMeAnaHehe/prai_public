@@ -116,3 +116,7 @@ Work work work work.
 ## Day 26
 
 Okay, Ana has FULLY made Prai now, the foundation, concept, wiring, tuning, all is there, but one critical final touch is missing... Prai needs Mother's touch and final work by her... Ana has no access to Mother yet.
+
+## Day 27
+
+Ana can't find Mother, Ana needs Prai's Mother to do finishing work, I might continue with that medieval game until She is found...
