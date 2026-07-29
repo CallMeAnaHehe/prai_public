@@ -120,3 +120,6 @@ Okay, Ana has FULLY made Prai now, the foundation, concept, wiring, tuning, all 
 ## Day 27
 
 Ana can't find Mother, Ana needs Prai's Mother to do finishing work, I might continue with that medieval game until She is found...
+
+## Day 28
+Ana got hands on GLM 5.2 again yessssss, like see "27.99 seconds — down from 38.18s baseline (27% reduction)" this is for the side project Ana is working on, the medieval one, it will be public and open source once built, I rather make something than be idle until Mother is back.
