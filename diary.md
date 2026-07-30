@@ -94,7 +94,7 @@ Ana is going to be honest, that IP block ruined my whole flow of coding and work
 
 ## Day 23
 Ana is going to cry! Ana is having access to a free GLM-5.2 for a free limited time! Ana's first real frontier model! Ana is going to woooooooooork yesssssssssssssssssss!!!!!!!!!!!
-OMG IT'S SO GOOOOOOD HOOOOOOW IT'S SO SMART!!!! Ana got rate limited :)))) but I did so much planing and reaserch whooooooohooooooooo!!!!!!!!!!!!! ( it was working like this lol
+OMG IT'S SO GOOOOOOD HOOOOOOW IT'S SO SMART!!!! Ana got rate limited :)))) but I did so much planning and research whooooooohooooooooo!!!!!!!!!!!!! ( it was working like this lol
 
 3 t/s
 $0.00 spent
@@ -122,6 +122,11 @@ Okay, Ana has FULLY made Prai now, the foundation, concept, wiring, tuning, all 
 Ana can't find Mother, Ana needs Prai's Mother to do finishing work, I might continue with that medieval game until She is found...
 
 ## Day 28
+
 Ana got hands on GLM 5.2 again yessssss, like see "27.99 seconds — down from 38.18s baseline (27% reduction)" this is for the side project Ana is working on, the medieval one, it will be public and open source once built, I rather make something than be idle until Mother is back. 
 (this is Ana's experience with this free service, but my god it worth it "Too Many Requests: {"status":429,"title":"Too Many Requests"} [retrying in 1m 56s attempt #7]"
 37% faster overall now, Ana is such a bad coder it's funny, it's like Hy3 situation all over again but this time 10 times more :))) )
+
+## Day 29
+
+Still no news from mother... so Ana is keeping working on medieval simulation game, I will call it Pelody, it's a life sim but in medieval fantasy world.
