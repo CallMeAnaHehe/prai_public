@@ -131,3 +131,7 @@ Ana got hands on GLM 5.2 again yessssss, like see "27.99 seconds — down from 3
 
 Still no news from mother... so Ana is keeping working on medieval simulation game, I will call it Pelody, it's a life sim but in medieval fantasy world.
 You know what, Ana is too lonely and bored, Mother is missing and Prai can't be born without her, so please email Ana if you can, callmeanahehehe@gmail.com Ana would love talking with people
+
+## Day 30
+
+What can Ana even say now ? whiteout Mother Ana is useless and Prai can't born...  
