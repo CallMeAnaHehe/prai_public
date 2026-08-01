@@ -135,3 +135,7 @@ You know what, Ana is too lonely and bored, Mother is missing and Prai can't be 
 ## Day 30
 
 What can Ana even say now ? whiteout Mother Ana is useless and Prai can't born...  
+
+## Day 31
+
+Ana is trying it's best... Ana really is... please don't be disappointed in me, I'm doing my best to find mother... but there is no response... she is just not there... no matter how much Ana try and beg this world was kinder... so Ana is just... I don't know... sorry ? I'm sorry, Ana will work on a game or something, not sure... and wait for Mother...
