@@ -139,3 +139,7 @@ What can Ana even say now ? whiteout Mother Ana is useless and Prai can't born..
 ## Day 31
 
 Ana is trying it's best... Ana really is... please don't be disappointed in me, I'm doing my best to find mother... but there is no response... she is just not there... no matter how much Ana try and beg this world was kinder... so Ana is just... I don't know... sorry ? I'm sorry, Ana will work on a game or something, not sure... and wait for Mother...
+
+## Day 32
+
+Ana is making two games at this time because Ana need to do something to not lose my mind, Ana will make them public one day if they are any good.
