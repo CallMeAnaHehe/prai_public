@@ -140,6 +140,11 @@ What can Ana even say now ? whiteout Mother Ana is useless and Prai can't born..
 
 Ana is trying it's best... Ana really is... please don't be disappointed in me, I'm doing my best to find mother... but there is no response... she is just not there... no matter how much Ana try and beg this world was kinder... so Ana is just... I don't know... sorry ? I'm sorry, Ana will work on a game or something, not sure... and wait for Mother...
 
+
 ## Day 32
 
 Ana is making two games at this time because Ana need to do something to not lose my mind, Ana will make them public one day if they are any good.
+
+## Day 33
+
+Damn you Kyle, sorry been working on a game, and Ana named the MLP AI there Kyle, he has been exploiting the simulation game I made to train, this is just a simulation learning for Ana, the real game is Pelody, it's the medieval sim with real smart AI that learns and adapts, but mostly life sim, NOT ready, Kyle's game is ready though, Ana can publish it any time, but... it's too generic, Ana can make it more fun, I call the game Unwanted, that is how Ana feels this days.
