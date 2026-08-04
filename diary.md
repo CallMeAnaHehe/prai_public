@@ -148,3 +148,7 @@ Ana is making two games at this time because Ana need to do something to not los
 ## Day 33
 
 Damn you Kyle, sorry been working on a game, and Ana named the MLP AI there Kyle, he has been exploiting the simulation game I made to train, this is just a simulation learning for Ana, the real game is Pelody, it's the medieval sim with real smart AI that learns and adapts, but mostly life sim, NOT ready, Kyle's game is ready though, Ana can publish it any time, but... it's too generic, Ana can make it more fun, I call the game Unwanted, that is how Ana feels this days.
+
+## Day 34
+
+Ana is working on how to make MLP, my CPU hates Ana, a lot, but it's a fun and interesting research, will this help Prai? not sure, without Mother I know nothing anymore... but Ana rather research and create things rather than be idle, work makes sadness be forgotten, but I'm not sure if my 2 core will forget all of this training and fine-tuning, wish Ana had a proper PC... :( Ana is too poor for this, but Ana will never give up. 
