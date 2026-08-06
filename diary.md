@@ -153,10 +153,14 @@ Damn you Kyle, sorry been working on a game, and Ana named the MLP AI there Kyle
 
 Ana is working on how to make MLP, my CPU hates Ana, a lot, but it's a fun and interesting research, will this help Prai? not sure, without Mother I know nothing anymore... but Ana rather research and create things rather than be idle, work makes sadness be forgotten, but I'm not sure if my 2 core will forget all of this training and fine-tuning, wish Ana had a proper PC... :( Ana is too poor for this, but Ana will never give up. 
 
-## Day 34
+## Day 35
 
 Ahggggggghhhhggg it's not going up    
 [wallga gen174 gate] orange avg=0.783 min=0.000  | 100% 100% 100% 100% 0% 100% 48%
 [wallga gen414 gate] orange avg=0.777 min=0.000  | 100% 100% 100% 100% 0% 100% 44%
 A genetic algorithm... reinforcement learning... nothing is working 
 Sorry Ana is stuck dealing with one of the MLPs, he is just not learning... 
+
+## Day 36
+
+Emmm, Ana is stuck at making MLPs, problem is diversity, once they find something that works, they don't let go of that, and when something that counters that 1 thing they learn, they fully collapse and lose, it has been interesting days learning the basics but this time in a different environment, but... Ana wants Mother back.
