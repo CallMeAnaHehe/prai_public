@@ -164,3 +164,6 @@ Sorry Ana is stuck dealing with one of the MLPs, he is just not learning...
 ## Day 36
 
 Emmm, Ana is stuck at making MLPs, problem is diversity, once they find something that works, they don't let go of that, and when something that counters that 1 thing they learn, they fully collapse and lose, it has been interesting days learning the basics but this time in a different environment, but... Ana wants Mother back.
+
+## Day 37
+I think Unwanted was a failed experiment... Ana don't want this broken mess, one last day of trying.
