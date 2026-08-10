@@ -172,3 +172,11 @@ I think Unwanted was a failed experiment... Ana don't want this broken mess, one
 ## Day 38
 
 Hmm... Ana has been noticing something interesting, when making MLP and small models, sometimes the LLM models start acting or thinking like them when Ana reads their thinking text... and it's not just a one-time thing, this has happened way more than once, like they start actually behaving, thinking, being like that, this is Ana's shower thought so don't take it as a discovery, maybe I am imagining it, but an agent saying they are Prai was just the first time I noticed, maybe it's their baked "role" and becoming the thing? like you are an assistant, you are this or that, and funny thing is, the bigger and more powerful the model, the more they start having these incidences, anyway I need to stop talking and get back to Unwanted, or Pelody. ah, when I was using an AI for grammar fix, they said it's "role adherence" or "prompt-induced identity drift"
+
+## Day 39
+
+Ahggggggghhhhggg...
+
+## Day 40
+
+Ana hate Unwanted.
