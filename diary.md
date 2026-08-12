@@ -180,3 +180,11 @@ Ahggggggghhhhggg...
 ## Day 40
 
 Ana hate Unwanted.
+
+## Day 41
+
+Ana got lost into making Pelody.
+
+## Day 42
+
+Unlike Prai that is stopped because lack of Mother present, and Unwanted that was aborted because of lack of Ana's patience, Pelody is turning great! it's becoming a full simulation, almost real world like, now Ana is going to go more... More and MORE and MOREEEEE(the star war meme) so wish Ana luck and if you can give Ana 100$ so Ana can buy 16 gig of used RAM, running simulations are taxing :))))
