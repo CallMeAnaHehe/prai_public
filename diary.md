@@ -189,3 +189,7 @@ Ana got lost into making Pelody.
 
 Unlike Prai that is stopped because lack of Mother present, and Unwanted that was aborted because of lack of Ana's patience, Pelody is turning great! it's becoming a full simulation, almost real world like, now Ana is going to go more... More and MORE and MOREEEEE(the star war meme) so wish Ana luck and if you can give Ana 100$ so Ana can buy 16 gig of used RAM, running simulations are taxing :))))
 Okay Ana is going to have a hot take or rant, it's about Godot Engine, Ana love this engine, but my god the community is great, but the loud minority are just... fanatics? they behave like Vegans, while they have some great points, but they are Vegan like, like yes, generative from stolen property is awful, Ana is fully against that, Ana hate image and video generative AI slop because they are made from people's hard work, and that is a vegetarian stance, I hate it, but I will not go and attack people who use it, I just wish they were trained from paid or licensed work, not stolen, same for music generation, that is also trained from stolen property, but coding and using AI as a tool is not wrong, code generators and agents are mostly trained based on open source projects that are okay to clone, but no, loud Vegans hate it because it has AI in it, why is Ana using mind and logic, is Ana silly? Ana need to be shot because Ana said using AI as tool is fine... it's a shame, Ana wish loud minority of Godot community were vegetarian.
+
+## Day 43
+
+Ana has another rant, but Ana is to busy working on Pelody.
