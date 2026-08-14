@@ -193,3 +193,7 @@ Okay Ana is going to have a hot take or rant, it's about Godot Engine, Ana love 
 ## Day 43
 
 Ana has another rant, but Ana is to busy working on Pelody.
+
+## Day 44
+
+Okay so, how do people automate everything? even the frontier models are dumb, they don't understand basic things, Ana was using a frontier(free, it's only few minutes per day, but still good!) to migrate an old system to new one, then got lazy and asked the AI to do it, it was going good, everything perfectly ported... suddenly Ana saw the AI is... implementing zip algorithms in Rust, Ana said hold on and interrupted, what are you doing? the AI said, you said take a zip file from older MLP... God... Ana is still lost for words after two days, then people give this dumb machines all of their daily life? guys they are still dumb, they need human supervisor, we are not yet in the time that they are not dumb machines, but they are now, it's like giving a monkey an AK, guys that is still a monkey, it didn't evolve to sentience.
