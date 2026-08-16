@@ -197,3 +197,14 @@ Ana has another rant, but Ana is to busy working on Pelody.
 ## Day 44
 
 Okay so, how do people automate everything? even the frontier models are dumb, they don't understand basic things, Ana was using a frontier(free, it's only few minutes per day, but still good!) to migrate an old system to new one, then got lazy and asked the AI to do it, it was going good, everything perfectly ported... suddenly Ana saw the AI is... implementing zip algorithms in Rust, Ana said hold on and interrupted, what are you doing? the AI said, you said take a zip file from older MLP... God... Ana is still lost for words after two days, then people give this dumb machines all of their daily life? guys they are still dumb, they need human supervisor, we are not yet in the time that they are not dumb machines, but they are now, it's like giving a monkey an AK, guys that is still a monkey, it didn't evolve to sentience.
+
+## Day 45
+Busy busy busy
+
+## Day 46
+
+Ana is still working on Pelody, sadly all the progress is gone because Ana's computer crashed and the binary got corrupted :'(
+
+## Day 47
+
+Ana is too busy with working on Pelody, but it's interesting that the reason why Unnamed failed is being talked about in world of artificial intelligence, problem was that they get used to something a lot, and master that good, and they start being bad in other things, like how some LLM are good in one harness or operating system but awful in another, honestly based on how Ana found it, it's simple fix, just train them in many different environments and things, and then merge them or distill them together, buuuuuuuuuut, it costs, it costs a lot of CPU/GPU, this is why Ana gave up on Unnamed game, it was killing my CPU honestly, after I proved that it can be fixed, I stopped, maybe one day that I have a proper computer I will work on it again, but that day is sadly not today, Ana is stuck with this 2 core machine :(
