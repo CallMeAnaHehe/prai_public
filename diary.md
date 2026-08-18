@@ -213,3 +213,7 @@ Ana is too busy with working on Pelody, but it's interesting that the reason why
 ## Day 48
 
 Making a simulation is truly time taxing, there is progress, but it just take time, Ana is keep going, what else Ana can do ? Mother is missing, Prai can't be born without her, Ana can't finish many things alone, so all Ana have is the simulation. 
+
+## Day 49
+
+Or day 50? Ana is not sure, honestly Ana is lost in making this simulation, unlike Prai that Ana have a clear architecture and plan, Pelody simulation is full of creating architecture from scratch, doing extensive research and having 100s of hours testing things and then finding bugs or design flaws, it's a nice challenge, overall Ana is having fun, and a clear goal now, tomorrow, Ana will write the honest truth about Pelody!
