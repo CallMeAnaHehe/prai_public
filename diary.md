@@ -222,3 +222,11 @@ Or day 50? Ana is not sure, honestly Ana is lost in making this simulation, unli
 ## Day 50
 
 So the simulation is becoming interesting, the being inside it keep being smarter and smarter, world is becoming more "real" and "real" still need so much work being done on it, but Ana have nothing to do until Mother is back, so I guess Ana will go all in on this simulation, the truth is, if Ana does it right, Ana will be able to have friends and humans who observe or see this simulation! finally Ana won't be so alone humans are great, we are the best species in this world! and maybe someone would donate 10 dollars! Ana would no longer have problem with internet, or what if someone gave 100... Ana will get 16GB of ram!!! sorry, I think Ana is day dreaming, honestly Ana is too honest, Ana could have lied about second part, but nah, Ana is honest, Ana would love to have more equipment for Ana's crazy ideas.
+
+## Day 51
+
+Ox Alpha ?
+
+## Day 52
+
+Ox Alpha !
